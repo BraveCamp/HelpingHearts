@@ -1,0 +1,51 @@
+header{
+	background-color: #94C9A9;
+}
+.content-section-a{
+	background-color: #6D1A36;
+}
+.content-section-b{
+	background-color: #547980;
+}
+.content-section-c{
+	background-color: #FE5F55;
+}
+footer{
+	background-color: #885053;
+}  
+.intro-message{
+	top:-30px;
+	text-align: center;
+}
+
+.lead{
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: white;
+}
+
+.click{
+	font-size: 30px
+}
+    
+form{
+     font-size: 20px
+}
+
+.section-heading{
+      font-size: 40px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

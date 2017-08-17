@@ -1,0 +1,48 @@
+.CarTag{
+	color: white;
+	font-family: "Arial Bold";
+	font-size: 60px;
+	text-align: center;
+}
+.lead {
+	font-weight: bold;
+	color:white;
+}
+.carousel{
+	height: 500px;
+	width:1150px;
+}
+.carousel-caption{
+	top:100px;
+}
+.CarTag{
+	text-shadow: 7px 5px black;
+}
+.Message{
+		text-align: center;
+		text-shadow: 3px 1px red;
+        color:white;
+        font-weight: bold;
+}
+.content-section-a{
+	background-color: #6D1A36;
+}
+.content-section-b{
+	background-color: #547980;        
+}
+.content-section-c{
+	background-color: #FE5F55;           
+}
+.content-section-d{
+	background-color: #94C9A9;  
+}
+.section-heading{
+	color:white;
+}
+footer{
+	background-color: #885053;
+}
+.image{
+	width: 450px;
+	height:300px;
+}

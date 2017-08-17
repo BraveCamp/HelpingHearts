@@ -1,0 +1,32 @@
+.ending{
+	color:white;
+}
+.pic{
+	text-align: left;
+	width:450px;
+}
+.intro-message{
+	top:-150px;
+}
+header{
+	background-color: #94C9A9;
+}
+.content-section-a{
+	background-color: #6D1A36;
+}
+.content-section-b{
+	background-color: #547980;
+}
+.content-section-c{
+	background-color: #FE5F55;
+}
+footer{
+	background-color: #885053;
+}
+.section-heading{
+	color:white;
+}
+.lead{
+	color:white;
+	font-weight: bold;
+}
